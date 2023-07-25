@@ -4,7 +4,6 @@ import com.cognicor.dto.ChatResponseDTO;
 import com.cognicor.pojos.ChatRequest;
 import com.cognicor.pojos.ChatResponse;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
